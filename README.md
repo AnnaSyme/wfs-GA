@@ -31,8 +31,16 @@ Galaxy Training Network materials:
 * Click on "Steps" to expand.
 * In each step, click on "Output datasets", and view with the eye icon. 
 
+## Label outputs
+
+* In the workflow canvas, click on a tool and see the information in the right-hand panel. 
+* Add text to the Label. 
+* This will become the label for the particular "step" in the workflow. It will then be visible in the output steps, if you are viewing the Workflow Invocation. 
+
 ## Tag outputs
 
 * In the workflow canvas, click on a tool and see the parameters in the right-hand panel. 
 * Click on "Configure output". You can re-name the output file, and/or add tags. 
 * For example, to easily find an output assembly, you could tag it with #final-assembly. 
+
+
