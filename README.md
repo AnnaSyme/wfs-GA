@@ -17,6 +17,7 @@ Galaxy Training Network materials:
 * Make one using the workflow canvas
 * Create one from an existing Galaxy history
 * Import one from a GTN tutorial or from **Shared Data: Workflows**
+* If you are using an imported and/or old workflow, some of the tools may not be the most recent version. In the workflow canvas, click on the cog wheel, then click "Upgrade workflow". This will set all the tools to the most recent version. 
 
 ## Test it with a small data set
 
